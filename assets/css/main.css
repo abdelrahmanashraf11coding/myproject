@@ -1555,12 +1555,6 @@ section,
   padding: 0;
 }
 
-#Tutorials{
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
-}
-
 /*--------------------------------------------------------------
 # Service Details Section
 --------------------------------------------------------------*/
